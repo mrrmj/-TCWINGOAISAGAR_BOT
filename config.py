@@ -4,8 +4,8 @@ Configuration settings for the Telegram bot.
 import os
 
 # Telegram Bot configuration
-BOT_TOKEN = os.getenv("BOT_TOKEN", "6822520253:AAFscMRKG2H5h-NTnnC7tr4wE7w4GQ5GGsI")
-BOT_USERNAME = "@TCWINGOAISAGAR_BOT"
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8237694201:AAGCy8nfrz9g6IKh0VrOLt1SC6bdR_dY7kM")
+BOT_USERNAME = "@mesvada_33_bot"
 
 # Database configuration
 DATABASE_FILE = "wingo_database.sqlite"
